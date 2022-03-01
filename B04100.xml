@@ -1,0 +1,473 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A list of the Royal Society.</title>
+            <author>Royal Society (Great Britain). Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1694</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04100</idno>
+            <idno type="STC">Wing L2502</idno>
+            <idno type="STC">ESTC R205796</idno>
+            <idno type="EEBO-CITATION">53299180</idno>
+            <idno type="OCLC">ocm 53299180</idno>
+            <idno type="VID">179925</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B04100)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179925)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2808:30)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A list of the Royal Society.</title>
+                  <author>Royal Society (Great Britain). Council.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Tho. James,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>MDCXCIV. [1694]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imperfect: sheet creased, with slight loss of text.</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Royal Society (Great Britain). --  Council --  Membership --  Sources.</term>
+               <term>Science --  Societies, etc. --  Great Britain --  Membership --  17th century --  Sources.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:179925:1" rendition="simple:additions"/>
+            <head>A LIST OF THE ROYAL SOCIETY.</head>
+            <div type="list_of_members">
+               <head>A LIST Of the Preſent COUNCIL, Eleven of which are to be continued till St.
+<hi>ANDREW</hi>'s Day 1694.</head>
+               <list>
+                  <item>S<hi rend="sup">R.</hi> ROBERT SOUTHWELL, <hi>Knight,</hi> PRESIDENT.</item>
+               </list>
+               <list>
+                  <item>John Bembde, <hi>Eſquire.</hi>
+                  </item>
+                  <item>
+                     <hi>Sir</hi> Godfry Copley <hi>Knt. &amp; Bar.</hi>
+                  </item>
+                  <item>
+                     <hi>Sir</hi> Anthony Dean, <hi>Knt.</hi>
+                  </item>
+                  <item>John Evelyn, <hi>Eſquire.</hi>
+                  </item>
+                  <item>John Flamſted, <hi>Aſt. Reg.</hi>
+                  </item>
+                  <item>Thomas Gale, <hi>D. D.</hi>
+                  </item>
+                  <item>Nehemiah Grew, <hi>M. D.</hi>
+                  </item>
+                  <item>John Harwood, <hi>LL. D.</hi>
+                  </item>
+                  <item>Thomas Henſhaw, <hi>Eſquire.</hi>
+                  </item>
+                  <item>John Herbert, <hi>Eſquire.</hi>
+                  </item>
+                  <item>Abraham Hill, <hi>Eſquire.</hi>
+                  </item>
+                  <item>Robert Hook, <hi>M. D.</hi>
+                  </item>
+                  <item>
+                     <hi>Sir</hi> John Hoskins, <hi>Knt. &amp; Bar.</hi>
+                  </item>
+                  <item>Robert Pitt, <hi>M. D.</hi>
+                  </item>
+                  <item>Alexander Pittfield, <hi>Eſquire.</hi>
+                  </item>
+                  <item>Robert Plott, <hi>LL. D.</hi>
+                  </item>
+                  <item>Hans Sloan, <hi>M. D.</hi>
+                  </item>
+                  <item>Edward Tyſon, <hi>M. D.</hi>
+                  </item>
+                  <item>Richard Waller, <hi>Eſquire.</hi>
+                  </item>
+                  <item>
+                     <hi>Sir</hi> Chriſtopher Wren, <hi>Knight.</hi>
+                  </item>
+                  <item>WIlliam Aglionby, <hi>M. D.</hi>
+                  </item>
+                  <item>
+                     <hi>St.</hi> George Aſhe, <hi>D. D.</hi>
+                  </item>
+                  <item>Francis Aſton, <hi>Eſquire.</hi>
+                  </item>
+                  <item>John Awbrey, <hi>Eſquire.</hi>
+                  </item>
+               </list>
+               <list>
+                  <item>GEORGE <hi>Earl of</hi> BERKLEY.</item>
+               </list>
+               <list>
+                  <item>Nicholas Bagnal, <hi>Eſquire.</hi>
+                  </item>
+                  <item>Ralph Bathurſt, <hi>D. D.</hi>
+                  </item>
+                  <item>Arthur Bayly, <hi>Eſquire.</hi>
+                  </item>
+                  <item>Richard Beaumont, <hi>Eſquire.</hi>
+                  </item>
+                  <item>Edward Bernard, <hi>D. D.</hi>
+                  </item>
+                  <item>Jonathan Blackwell, <hi>Eſquire.</hi>
+                  </item>
+                  <item>William Bridgman, <hi>Eſquire.</hi>
+                  </item>
+                  <item>Edward Brown, <hi>M. D.</hi>
+                  </item>
+                  <item>
+                     <hi>Sir</hi> Richard Bulkley, <hi>Knt. &amp; Bar.</hi>
+                  </item>
+               </list>
+               <list>
+                  <item>JOHN <hi>Lord Arch-Biſhop of</hi> CANTERBURY.</item>
+                  <item>JOHN <hi>Earl of</hi> CARBERY.</item>
+                  <item>HENRY <hi>Earl of</hi> CLARENDON.</item>
+                  <item>EDWARD <hi>Ld. Biſhop of</hi> CORK <hi>and</hi> ROSSE.</item>
+               </list>
+               <list>
+                  <item>Hugh Chamberlen, <hi>M. D.</hi>
+                  </item>
+                  <item>
+                     <hi>Mr.</hi> Dethleuus Cluverus,</item>
+                  <item>Daniel Cox, <hi>M. D.</hi>
+                  </item>
+                  <item>John Creed.</item>
+                  <item>Thomas Criſp, <hi>Eſquire.</hi>
+                  </item>
+               </list>
+               <list>
+                  <item>GEORGE <hi>Lord</hi> DOUGLAS.</item>
+               </list>
+               <list>
+                  <item>Thomas Day, <hi>Eſquire.</hi>
+                  </item>
+                  <item>
+                     <hi>Sir</hi> William Godolphin, <hi>Knight.</hi>
+                  </item>
+                  <item>
+                     <hi>Sir</hi> Robert Gordon, <hi>Knight.</hi>
+                  </item>
+                  <item>David Gregory, <hi>M. D.</hi>
+                  </item>
+                  <item>Charles Greſham, <hi>A. M.</hi>
+                  </item>
+                  <item>
+                     <hi>Sir</hi> Rowland Gwynne, <hi>Knight.</hi>
+                  </item>
+               </list>
+               <list>
+                  <item>GEORGE <hi>Marqueſs of</hi> HALLIFAX.</item>
+               </list>
+               <list>
+                  <item>Edward Haines, <hi>Eſquire.</hi>
+                  </item>
+                  <item>Clopton Havers, <hi>M. D.</hi>
+                  </item>
+                  <item>William Holder, <hi>D. D.</hi>
+                  </item>
+                  <item>
+                     <hi>Mr:</hi> John Houghton,</item>
+                  <item>Charles Howard <hi>of</hi> Norfolk, <abbr>
+                        <hi>Eſq.</hi>
+                     </abbr>
+                  </item>
+                  <item>Edward Howard <hi>of</hi> Norfolk, <abbr>
+                        <hi>Eſq.</hi>
+                     </abbr>
+                  </item>
+                  <item>John Stafford Howard, <hi>Eſquire.</hi>
+                  </item>
+               </list>
+               <list>
+                  <item>ALEXANDER <hi>Ea<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>le of</hi>
+KINCARDIN.</item>
+               </list>
+               <list>
+                  <item>
+                     <hi>Sir</hi> Edmond King, <hi>Knight.</hi>
+                  </item>
+               </list>
+               <list>
+                  <item>ROBERT <hi>Earl of</hi> LINDSEY. <hi>Lord Great Chamb.</hi>
+                  </item>
+               </list>
+               <list>
+                  <item>Joſeph Lane, <hi>Eſquire.</hi>
+                  </item>
+                  <item>Ralph Lane, <hi>Eſquire.</hi>
+                  </item>
+                  <item>Edward Laney, <hi>D. M.</hi>
+                  </item>
+                  <item>Martin <gap reason="illegible" resp="#OXF" extent="5 letters">
+                        <desc>•••••</desc>
+                     </gap>er, <hi>M. D.</hi>
+                  </item>
+                  <item>
+                     <hi>Mr.</hi> Francis Lodwick.</item>
+                  <item>
+                     <hi>Sir</hi> John Lowther, <hi>Bar.</hi>
+                  </item>
+                  <item>John Mapletoft, <hi>D. D.</hi>
+                  </item>
+                  <item>Roger Merideth, <hi>Eſquire.</hi>
+                  </item>
+                  <item>Walter Mills, <hi>M. D.</hi>
+                  </item>
+                  <item>Benjamin Middleton, <hi>Eſquire.</hi>
+                  </item>
+                  <item>William Molineux, <hi>Eſquire.</hi>
+                  </item>
+                  <item>Thomas Molineux, <hi>M. D.</hi>
+                  </item>
+                  <item>
+                     <hi>Mr.</hi> George Mol<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </item>
+                  <item>William Muſgrave, <hi>LL. D.</hi>
+                  </item>
+               </list>
+               <list>
+                  <item>HENRY <hi>Duke of</hi> NORFOLK <hi>Earl Marſhal.</hi>
+                  </item>
+               </list>
+               <list>
+                  <item>
+                     <hi>Mr.</hi> Iſaac Newton, <hi>Math. Prof. Luc.</hi>
+                  </item>
+               </list>
+               <list>
+                  <item>THOMAS <hi>Earl of</hi> PEMBROCKE.</item>
+               </list>
+               <list>
+                  <item>Edward Paget, <hi>A. M.</hi>
+                  </item>
+                  <item>Henry Paman, <hi>M. D.</hi>
+                  </item>
+                  <item>William Payne, <hi>A. M.</hi>
+                  </item>
+                  <item>William Perry, <hi>A. M.</hi>
+                  </item>
+                  <pb facs="tcp:179925:2" rendition="simple:additions"/>
+                  <item>Samuel Pepys, <hi>Eſquire.</hi>
+                  </item>
+                  <item>Walter Pope, <hi>M. D.</hi>
+                  </item>
+                  <item>Thomas Povey, <hi>Eſquire.</hi>
+                  </item>
+               </list>
+               <list>
+                  <item>
+                     <hi>THOMAS</hi> Lord Biſhop of <hi>ROCHESTER.</hi> Dean of <hi>Weſtminſter.</hi>
+                  </item>
+               </list>
+               <list>
+                  <item>John Ray, <hi>A. M.</hi>
+                  </item>
+                  <item>Francis Roberts, <hi>Eſquire.</hi>
+                  </item>
+                  <item>Richard Robinſon, <hi>M. D.</hi>
+                  </item>
+                  <item>Tancred Robinſon, <hi>M. D.</hi>
+                  </item>
+                  <item>
+                     <hi>Sir</hi> Paul Rycaut, <hi>Knight.</hi>
+                  </item>
+                  <item>
+                     <hi>Mr.</hi> Joſeph Raphſon, <hi>M. A.</hi>
+                  </item>
+               </list>
+               <list>
+                  <item>GILBERT <hi>Lord Biſhop of</hi> SALISBURY</item>
+               </list>
+               <list>
+                  <item>
+                     <hi>Sir</hi> Jeremy Sambrook, <hi>Knight.</hi>
+                  </item>
+                  <item>Frederick Slare, <hi>M. D.</hi>
+                  </item>
+                  <item>Edward Southwell, <hi>Eſquire</hi>
+                  </item>
+                  <item>William Stanley, <hi>D. D.</hi>
+                  </item>
+               </list>
+               <list>
+                  <item>
+                     <hi>The Honourable the Lord Viſcount</hi> TARBAT.</item>
+               </list>
+               <list>
+                  <item>Alexander Torriano, <hi>LL. B.</hi>
+                  </item>
+                  <item>
+                     <hi>Sir.</hi> Theodore de Vaux, <hi>Knight.</hi>
+                  </item>
+               </list>
+               <list>
+                  <item>CHARLES <hi>Marqueſs of</hi> WORCESTER THOMAS <hi>Lord Viſcount</hi> WAYMOUTH.</item>
+               </list>
+               <list>
+                  <item>John Wallis, <hi>D. D. Geo. Pr. Sav.</hi>
+                  </item>
+                  <item>
+                     <hi>Sir</hi> Patience Ward, <hi>Knight.</hi>
+                  </item>
+                  <item>
+                     <hi>Sir</hi> Paul Witchcot, <hi>Knt. &amp; Bar.</hi>
+                  </item>
+                  <item>
+                     <hi>Sir</hi> Joſeph Williamſon, <hi>Knight.</hi>
+                  </item>
+                  <item>Charles Willoughby, <hi>M. D.</hi>
+                  </item>
+                  <item>William Wotton, <hi>A. M.</hi>
+                  </item>
+                  <item>
+                     <hi>Sir</hi> Cyril Wyche, <hi>Knight.</hi>
+                  </item>
+                  <item>
+                     <hi>Sir</hi> Peter Wyche, <hi>Knight.</hi>
+                  </item>
+                  <item>Edmond Wylde, <hi>Eſquire.</hi>
+                  </item>
+               </list>
+               <p>
+                  <hi>Out of theſe</hi> FELLOWS <hi>of the</hi> SOCIETY, <hi>Ten are to be choſen into the
+Council for the Year Enſuing, on Thurſday the Thirtieth of</hi> November, 1693. <hi>Being
+St.</hi> ANDREW's <hi>Day.</hi>
+               </p>
+            </div>
+            <div type="list_of_foreign_members">
+               <head>PERSONS OF OTHER NATIONS.</head>
+               <list>
+                  <item>DS. Fremont d' Ablancourt.</item>
+                  <item>Ds. Dominicus Caſſini, <hi>Aſtr. Reg. Par.</hi>
+                  </item>
+                  <item>Ds. Johannes Dolaeus, <hi>Aſtr. Reg. Par.</hi>
+                  </item>
+                  <item>Ds. Nicolaus Fatio, <hi>de Duillier.</hi>
+                  </item>
+                  <item>Ds. Jacomo Grande, <hi>Venetus.</hi>
+                  </item>
+                  <item>Ds. Jo. Theodorus Heinſon Hanov.</item>
+                  <item>Ds. Urbanus Hiern.</item>
+                  <item>Ds. Chriſtianus Huygens de Zulichem.</item>
+                  <item>Ds. Jo. Phil. Jordis <hi>M. D. Francofurt.</hi>
+                  </item>
+                  <item>Ds. Theodorus Kerchringius.</item>
+                  <item>Ds. Gothofred Gul. Leibinitus, <hi>J. V. D.</hi>
+                  </item>
+                  <item>Ds. Antonius Leuwenhoeck, <hi>Delphenſ.</hi>
+                  </item>
+                  <item>Ds. Marcellus Malpighius, <hi>M. D.</hi> Marſigli. <hi>Com. Imp. Rom.</hi>
+                  </item>
+                  <item>Ds. Dioniſius Papin, <hi>M. D.</hi>
+                  </item>
+                  <item>Ds. Louis Paul, <hi>M. D.</hi>
+                  </item>
+                  <item>Ds. Jo. Ambroſius Sarotti.</item>
+                  <item>Ds. Ez de Spanheim</item>
+                  <item>Ds. Jo. Adamus Stampfer.</item>
+                  <item>Ds. Franciſcus Travigini, <hi>Phil. Venet.</hi>
+                  </item>
+                  <item>Ds. Raymundus Vieuſſens, <hi>M. D.</hi>
+                  </item>
+                  <item>Ds. Jo. Weichard Valvaſor, <hi>Liber. Baro.</hi>
+                  </item>
+                  <item>Ds. Spirit. Cabart de Villermont.</item>
+                  <item>Ds. Nicolaus Witſen, <hi>Burg. Amſter.</hi>
+                  </item>
+               </list>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Tho. James,</hi> MDCXCIV.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
